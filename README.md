@@ -48,15 +48,18 @@ From **automated monthly billing with PDF receipts** to **real-time visitor trac
 
 
 ### 💳 Secure Payments
-<img width="1904" height="956" alt="image" src="https://github.com/user-attachments/assets/09e85280-5a6d-4f26-a69e-13baeb15a7e7" />
+<img width="1904" height="956" alt="Screenshot 2026-02-08 230010" src="https://github.com/user-attachments/assets/9ceed0f5-b5ac-423c-aa34-31f6220e5c4e" />
+
 
 
 ### 🚗 Visitor Management
-<img width="1623" height="823" alt="image" src="https://github.com/user-attachments/assets/6cb1c4e5-444b-4b3d-91f7-0b0029688e69" />
+<img width="1623" height="823" alt="Screenshot 2026-02-08 230100" src="https://github.com/user-attachments/assets/d3b762e8-e871-4bcc-910c-f54ddbb9443c" />
+
 
 
 ### 🛠️ Complaint System
-<img width="1891" height="728" alt="image" src="https://github.com/user-attachments/assets/9eed97f4-1f69-4b63-9d79-a5297110387b" />
+<img width="1598" height="604" alt="Screenshot 2026-02-08 230212" src="https://github.com/user-attachments/assets/31dd2adc-e535-4b54-8ecf-7daeb5f38727" />
+
 
 
 ---
